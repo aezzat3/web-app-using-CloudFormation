@@ -4,6 +4,8 @@
 
 ![Diagram](/docs/Project_2_Udacity_CDE_nanodegree.png)
 
+![Website](/docs/screenshot.png)
+
 1. You need to create a Secure KeyPair that will use to connect to Bastion Host, in a terminal using the file `utils/create-secure-key.sh`
 
    > `utils/create-secure-key.sh`
