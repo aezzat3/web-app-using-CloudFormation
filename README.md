@@ -29,3 +29,4 @@
    > `utils/create-stack.sh bastion-stack bastion/bastion-stack-template.yml bastion/bastion-parameters.json`
 
    > `utils/create-stack.sh server-stack server/server-stack-template.yml server/server-parameters.json`
+   > You can access to the final website using this LoadBalancer [link](http://serve-WebAp-1XZJSYM9JEABE-1266606802.us-west-2.elb.amazonaws.com)
